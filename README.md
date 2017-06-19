@@ -35,7 +35,7 @@ Things you may want to cover:
 	
 	`rails console`
 	
-	- create location data and add them into database.
+	- create location data and add them into database on `rails console` command line. 
 
 		`location = Location.create(name: "Zürich", latitude: 47.3769, longitude: 8.54169)`
 		
