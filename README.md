@@ -36,29 +36,45 @@ Things you may want to cover:
 	`rails console`
 	
 	- create location data and add them into database.
+
 		`location = Location.create(name: "Zürich", latitude: 47.3769, longitude: 8.54169)`
+		
 		`location.save`
+
 
 		`location = Location.create(name: "Löwenstrasse", latitude: 47.377, longitude: 8.538)`
+
 		`location.save`
 
+
 		`location = Location.create(name: "Reitergasse 11", latitude: 47.3771, longitude: 8.53347)`
+
 		`location.save`
 
 		...
 
+
 	- search data with keywords
+
 		`Location.search`
+
 		`Location.search "keyword"
 
+
 	- search location data with latitude, longitude, distance.
+
 		`Location.within(5, :origin => [47.3769, 8.54169])
 
 
 * References
+
 	https://github.com/pat/thinking-sphinx
+
 	http://freelancing-gods.com/thinking-sphinx
+
 	http://freelancing-gods.com/thinking-sphinx/geosearching.html
+
 	https://github.com/geokit/geokit-rails
+
 	https://github.com/collectiveidea/acts_as_geocodable
 
