@@ -58,12 +58,12 @@ Things you may want to cover:
 
 		`Location.search`
 
-		`Location.search "keyword"
+		`Location.search "keyword"`
 
 
 	- search location data with latitude, longitude, distance.
 
-		`Location.within(5, :origin => [47.3769, 8.54169])
+		`Location.within(5, :origin => [47.3769, 8.54169])`
 
 
 * References
