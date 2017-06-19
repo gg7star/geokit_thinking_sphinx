@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/11585711/thinking-sphinx-geodist-search-returns-locations-in-a-different-city
+http://freelancing-gods.com/thinking-sphinx/geosearching.html
+https://github.com/geokit/geokit-rails
+https://stackoverflow.com/questions/6400839/thinking-sphinx-rails-not-running
+https://stackoverflow.com/questions/31488122/thinking-sphinx-undefined-method-klass
+https://stackoverflow.com/questions/3040988/database-layout-for-an-application-with-geocoding-features-using-geokit
